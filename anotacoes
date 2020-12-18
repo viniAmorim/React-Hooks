@@ -1,0 +1,19 @@
+CRIANDO PROJETO DO ZERO
+. yarn create react-app react-hooks
+
+ESLint, Prettier & EditorConfig
+. Clique com o botão direito do mouse e generate .editor config
+. yarn add eslint -D
+. yarn eslint --init
+  . check and find problems and eforce code style
+  . JavaScript modules
+  . React
+  . Browse
+  .
+. Remover arquivo package-lock.json
+. rodar 'yarn' na raiz do projeto pra atualizar as dependencias
+. yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+. Criar arquivo .prettierrc
+
+CONFIGURANDO ESTRUTURA DO PROJETO
+. yarn add eslint-plugin-react-hooks -D
